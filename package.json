@@ -1,0 +1,23 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caesar_cli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashablyka/Caesar-cipher-CLI-tool.git"
+  },
+  "author": "Andrei Shablyka <an.shablyka@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashablyka/Caesar-cipher-CLI-tool/issues"
+  },
+  "homepage": "https://github.com/ashablyka/Caesar-cipher-CLI-tool#readme",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
